@@ -4,7 +4,7 @@ cffi==1.12.2
 deepspeech==0.5.1
 Django==2.2
 numpy==1.16.3
-opencv-python==4.1.0.25
+opencv-python==4.2.0.32
 Pillow==6.0.0
 pycparser==2.19
 pytz==2019.1
