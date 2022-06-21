@@ -3,7 +3,7 @@ bcrypt==3.1.6
 cffi==1.12.2
 deepspeech==0.5.1
 Django==2.2
-numpy==1.16.3
+numpy==1.22.0
 opencv-python==4.1.0.25
 Pillow==6.0.0
 pycparser==2.19
